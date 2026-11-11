@@ -140,8 +140,7 @@ Pierwszy punkt styku kandydata i partnera z firmą — dostępny na żywo pod ad
 - **Adaptacyjna Wydajność (Smart FX) & Rekrutacja** — interfejs sam dopasowuje płynność animacji do urządzenia użytkownika i prowadzi kandydata krok po kroku do rekrutacji oraz Panelu Kierowcy.
 
 <div align="center">
-  <!-- 📸 ZDJĘCIE 1 (STRONA GŁÓWNA): podmień src="" poniżej na np. assets/01-strona-glowna.png -->
-  <img src="https://placehold.co/1280x680/0F172A/38BDF8.png?text=ZDJECIE+1+%E2%80%A2+STRONA+GLOWNA+%28davmar.fly.dev%29%0A%5B+WSTAW+ZRZUT+STRONY+GLOWNEJ+Z+MAPA+EUROPY+%5D&font=montserrat" alt="Strona główna DavMar Polska" width="100%" />
+  <img src="zdjecia/01-strona-glowna.png" alt="Strona główna DavMar Polska" width="100%" />
   <p><sub>🌐 <strong>Publiczna strona firmy (<a href="https://davmar.fly.dev/">davmar.fly.dev</a>)</strong> — wizytówka marki, animowana mapa Europy i automatyczna galeria zdjęć z Discorda.</sub></p>
 </div>
 
@@ -178,13 +177,11 @@ Po zalogowaniu przez Discord aplikacja webowa automatycznie dopasowuje widok do 
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <!-- 📸 ZDJĘCIE 2 (PANEL KIEROWCY): podmień src="" poniżej na np. assets/02-panel-kierowcy.png -->
-      <img src="https://placehold.co/800x480/162238/38BDF8.png?text=ZDJECIE+2+%E2%80%A2+PANEL+KIEROWCY%0A%5B+WSTAW+ZRZUT%3A+MOJA+PRACA+%2F+GIELDA+%2F+DAVMAR+BANK+%5D&font=montserrat" alt="Panel Kierowcy DavMar" width="100%" />
+      <img src="zdjecia/02-panel-kierowcy.png" alt="Panel Kierowcy DavMar" width="100%" />
       <sub><strong>Widok Pracownika</strong> — rozpiski, Giełda Ładunków, DavMar Bank oraz statystyki.</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <!-- 📸 ZDJĘCIE 3 (PANEL ZARZĄDU / FLOTY): podmień src="" poniżej na np. assets/03-panel-zarzadu.png -->
-      <img src="https://placehold.co/800x480/162238/F59E0B.png?text=ZDJECIE+3+%E2%80%A2+PANEL+ZARZADU+%26+FLOTY%0A%5B+WSTAW+ZRZUT%3A+FLOTA+%2F+WNIOSKI+%2F+MAPA+NA+ZYWO+%5D&font=montserrat" alt="Panel Zarządu i Dyspozytorni" width="100%" />
+      <img src="zdjecia/03-panel-zarzadu.png" alt="Panel Zarządu i Dyspozytorni" width="100%" />
       <sub><strong>Widok Kadry (Dyspozytor / Zarząd / IT)</strong> — zarządzanie flotą, wnioskami i mapą na żywo.</sub>
     </td>
   </tr>
@@ -205,8 +202,7 @@ Autorska aplikacja dla systemu Windows zbudowana w **C# / .NET 8**, utrzymana w 
 - **Praca Offline i Autorski Auto-Updater (`DavMar Setup`)** — parowanie komputera jednym kliknięciem przez Discord, lokalna kolejka chroniąca dane przy braku internetu oraz własny instalator aktualizujący aplikację w tle.
 
 <div align="center">
-  <!-- 📸 ZDJĘCIE 4 (APLIKACJA WINDOWS DAVMAR CONNECT): podmień src="" poniżej na np. assets/04-davmar-connect.png -->
-  <img src="https://placehold.co/1280x680/0F172A/38BDF8.png?text=ZDJECIE+4+%E2%80%A2+DAVMAR+CONNECT+%28WINDOWS%29%0A%5B+WSTAW+ZRZUT+OKNA+APLIKACJI+DESKTOPOWEJ+DAVMAR+CONNECT+%5D&font=montserrat" alt="Aplikacja Windows DavMar Connect" width="100%" />
+  <img src="zdjecia/04-davmar-connect.png" alt="Aplikacja Windows DavMar Connect" width="100%" />
   <p><sub>🖥️ <strong>DavMar Connect dla Windows</strong> — telemetria ETS2 w czasie rzeczywistym, cyfrowy tachograf, tankowania i obsługa zestawu.</sub></p>
 </div>
 
